@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.coverage
+.coverage*
+.gitattributes
+/.pytest_cache
